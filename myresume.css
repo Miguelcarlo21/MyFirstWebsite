@@ -1,0 +1,311 @@
+.resume {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.resume .div {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  width: 1440px;
+  height: 1571px;
+  position: relative;
+}
+
+.resume .infos {
+  position: absolute;
+  width: 370px;
+  top: 331px;
+  left: 852px;
+  font-family: "Abel", Helvetica;
+  font-weight: 400;
+  color: #73808d;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.resume .xp {
+  position: absolute;
+  width: 487px;
+  top: 331px;
+  left: 220px;
+  font-family: "Abel", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  line-height: 28px;
+}
+
+.resume .text-wrapper {
+  color: #73808d;
+  letter-spacing: 0.64px;
+}
+
+.resume .span {
+  color: #101214;
+  letter-spacing: 0;
+}
+
+.resume .text-wrapper-2 {
+  color: #73808d;
+  letter-spacing: 0;
+}
+
+.resume .title {
+  position: absolute;
+  width: 340px;
+  top: 239px;
+  left: 220px;
+  font-family: "Alexandria", Helvetica;
+  font-weight: 400;
+  color: #101214;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.resume .image {
+  width: 186px;
+  height: 177px;
+  top: 138px;
+  left: 947px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.resume .frame {
+  position: absolute;
+  width: 1440px;
+  height: 79px;
+  top: 0;
+  left: 0;
+  background-color: #1b0033;
+  overflow: hidden;
+}
+
+.resume .aboutme-button {
+  position: absolute;
+  width: 93px;
+  height: 39px;
+  top: 23px;
+  left: 576px;
+  background-color: #f5efef;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #c2c2c2;
+}
+
+.resume .text-wrapper-3 {
+  position: absolute;
+  height: 21px;
+  top: 8px;
+  left: 23px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.resume .div-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 93px;
+  height: 39px;
+  top: 22px;
+  left: 449px;
+  background-color: #f5efef;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #c2c2c2;
+}
+
+.resume .text-wrapper-4 {
+  left: 24px;
+  position: absolute;
+  height: 21px;
+  top: 8px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.resume .gallery-button {
+  position: absolute;
+  width: 93px;
+  height: 39px;
+  top: 23px;
+  left: 702px;
+  background-color: #f5efef;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #c2c2c2;
+}
+
+.resume .text-wrapper-5 {
+  position: absolute;
+  height: 21px;
+  top: 8px;
+  left: 26px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.resume .projects-button {
+  position: absolute;
+  width: 93px;
+  height: 39px;
+  top: 22px;
+  left: 829px;
+  background-color: #f5efef;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #c2c2c2;
+}
+
+.resume .text-wrapper-6 {
+  position: absolute;
+  height: 21px;
+  top: 8px;
+  left: 14px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.resume .blogs-button {
+  position: absolute;
+  width: 93px;
+  height: 39px;
+  top: 23px;
+  left: 971px;
+  background-color: #f5efef;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #c2c2c2;
+}
+
+.resume .text-wrapper-7 {
+  left: 15px;
+  position: absolute;
+  height: 21px;
+  top: 8px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.resume .overlap-group {
+  position: absolute;
+  width: 282px;
+  height: 115px;
+  top: 0;
+  left: -38px;
+  border-radius: 141px/57.5px;
+}
+
+.resume .text-wrapper-8 {
+  position: absolute;
+  width: 59px;
+  height: 31px;
+  top: 42px;
+  left: 150px;
+  font-family: "Outfit", Helvetica;
+  font-weight: 700;
+  color: #c8c8c8;
+  font-size: 32px;
+  letter-spacing: 3.52px;
+  line-height: 39.4px;
+  white-space: nowrap;
+}
+
+.resume .ellipse {
+  position: absolute;
+  width: 282px;
+  height: 115px;
+  top: 0;
+  left: 0;
+  background-color: #7675af;
+  border-radius: 141px/57.5px;
+  filter: blur(150px);
+}
+
+.resume .TAPALLA-MIGUEL-CARLO {
+  position: absolute;
+  width: 179px;
+  height: 73px;
+  top: 0;
+  left: 38px;
+  object-fit: cover;
+}
+
+.resume .img {
+  width: 42px;
+  height: 40px;
+  top: 23px;
+  left: 1191px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.resume .image-2 {
+  width: 42px;
+  height: 40px;
+  top: 23px;
+  left: 1121px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.resume .image-3 {
+  width: 42px;
+  height: 40px;
+  top: 23px;
+  left: 1260px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.resume .image-4 {
+  width: 42px;
+  height: 40px;
+  top: 23px;
+  left: 1330px;
+  position: absolute;
+  object-fit: cover;
+}
